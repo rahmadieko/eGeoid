@@ -1,2 +1,2 @@
-# mygeoid
-Online Service Calculate Geoid Height
+# eGeoid
+Service to Calculate Geoid Height
